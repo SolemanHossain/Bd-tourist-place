@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Langlok",
+        "height": 900,
+        "region": "Bandharban",
+        "img": "https://i2.wp.com/adarbepari.com/wp-content/uploads/2019/12/langlok-waterfall-bandarban-02.jpg?fit=830%2C623&ssl=1",
+        "treavelingCost": 7000
+    },
+    {
+        "name": "Likkhong",
+        "height": 700,
+        "region": "Bandharban",
+        "img": "https://i.ytimg.com/vi/umepiivC7nw/hqdefault.jpg",
+        "treavelingCost": 7500
+    },
+    {
+        "name": "Dhuppani",
+        "height": 650,
+        "region": "Ranghamati",
+        "img": "https://vromonguide.com/wp-content/uploads/duppani-waterfall-770x420.jpg",
+        "treavelingCost": 5000
+    },
+    {
+        "name": "Tinap Saitar",
+        "height": 200,
+        "region": "Bandharban",
+        "img": "https://i0.wp.com/adarbepari.com/wp-content/uploads/2016/07/paindu-tinap-saitar-1.jpg?fit=820%2C430&ssl=1",
+        "treavelingCost": 8000
+    },
+    {
+        "name": "Ham Ham",
+        "height": 550,
+        "region": "Sylhet",
+        "img": "https://vromonguide.com/wp-content/uploads/ham-ham-water-fall.jpg",
+        "treavelingCost": 4000
+    },
+    {
+        "name": "Jadhipai",
+        "height": 650,
+        "region": "Bandharban",
+        "img": "https://dailyasianage.com/library/1492798577pic%201.jpg",
+        "treavelingCost": 9000
+    },
+    {
+        "name": "Baklai",
+        "height": 750,
+        "region": "Bandharban",
+        "img": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/1576566_biggest%20waterfalls%20Bangladesh.jpg",
+        "treavelingCost": 8500
+    },
+    {
+        "name": "Double Falls",
+        "height": 400,
+        "region": "Bandharban",
+        "img": "https://i.ytimg.com/vi/iFEw4KBSnp8/maxresdefault.jpg",
+        "treavelingCost": 9000
+    },
+    {
+        "name": "Damtua",
+        "height": 450,
+        "region": "Bandharban",
+        "img": "https://i.ytimg.com/vi/D3p0m-dG7_0/maxresdefault.jpg",
+        "treavelingCost": 4500
+    }
+]
